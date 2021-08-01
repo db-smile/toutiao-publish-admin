@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>蜻蜓头条</h1>
+
     <!-- 路由出口 -->
     <router-view/>
   </div>
